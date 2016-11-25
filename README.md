@@ -16,4 +16,4 @@ http://2.333.69.mu/<br>
 </video>
 
 <a href="http://2.16.dvrdns.org"><img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg"></a>
-<img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg">
+
