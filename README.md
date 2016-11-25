@@ -14,3 +14,5 @@ http://2.333.69.mu/<br>
 <video id=movieTopMiddle preload=none  autoplay controls  poster=http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg width=120% height=450>
 <source src=http://2.16.dvrdns.org/mp4/zx/2016/11/ftArtMaster.mp4 type=video/mp4 /> 
 </video>
+
+<a href="http://2.16.dvrdns.org"><img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg width=720 height=480"></a>
