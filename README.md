@@ -16,4 +16,4 @@ http://2.333.69.mu/<br>
 <div><font color="gold" >飞天20位获得金奖学生的精彩表演</font></div>
 <a href="http://2.16.dvrdns.org/zx/" target="_blank"><img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg"></a>
 
-<font color="red">要反白的文字<font>
+<font color="red">要反白的文字</font>
