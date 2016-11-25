@@ -1,5 +1,9 @@
 <link rel="stylesheet" href="//github.com/sindresorhus/github-markdown-css">
-
+```css
+   <style>
+    .color:red;
+   </style>
+```
 #真相部落 有圖文 有音頻 有視頻 有真相<br>
 #當前有效網址：<br>
 http://2.16.dvrdns.org/<br>
