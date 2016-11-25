@@ -13,5 +13,4 @@ http://2.333.69.mu/<br>
 
 <video id=movieTopMiddle preload=none  autoplay controls  poster=http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg width=120% height=450>
 <source src=http://2.16.dvrdns.org/mp4/zx/2016/11/ftArtMaster.mp4 type=video/mp4 /> 
-<embed src=http://2.16.dvrdns.org/cms2012/xtr/player/player.swf width=120% height=450 type=application/x-shockwave-flash pluginspage=www.macromedia.com/go/getflashplayer allowfullscreen=true flashvars=file=../../mp4/zx/2016/11/ftArtMaster.mp4&image=http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg&autostart=flase&wmode=opaque&controlbar=bottom&screencolor=184883> </embed>
-					</video>
+</video>
