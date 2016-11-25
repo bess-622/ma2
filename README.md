@@ -11,6 +11,6 @@ http://2.p2.ro.lt/<br>
 
                          
 </a>
-[飞天20位获得金奖学生的精彩表演](http://2.16.dvrdns.org/zx/){:target="_blank"}
+[飞天20位获得金奖学生的精彩表演](http://2.16.dvrdns.org/zx/)
 
-<a href="http://example.com/" target="_blank">example</a>
+
