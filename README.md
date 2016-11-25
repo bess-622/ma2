@@ -15,5 +15,5 @@ http://2.333.69.mu/<br>
 <source src=http://2.16.dvrdns.org/mp4/zx/2016/11/ftArtMaster.mp4 type=video/mp4 /> 
 </video>
 
-<a href="http://2.16.dvrdns.org"><img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg></a>
-<img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg>
+<a href="http://2.16.dvrdns.org"><img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg"></a>
+<img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg">
