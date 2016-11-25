@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="//github.com/sindresorhus/github-markdown-css">
 ```html
    
-    當前有效網址
+    <span style="color:red;">當前有效網址</span>
    
 ```
 #真相部落 有圖文 有音頻 有視頻 有真相<br>
