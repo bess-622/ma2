@@ -9,6 +9,6 @@ http://2.p2.ro.lt/<br>
 
 <a href="http://2.16.dvrdns.org/zx/" target="_blank"><img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg">
 
-                         飞天20位获得金奖学生的精彩表演
+                         
 </a>
-
+[飞天20位获得金奖学生的精彩表演](http://2.16.dvrdns.org/zx/){:target="_blank"}
