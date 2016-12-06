@@ -4,7 +4,7 @@
 #當前有效網址：<br>
 http://2.16.dvrdns.org/<br>
 http://meg.mymom.info/<br>
-http://51.myftp.org/<br>
+http://48.myftp.biz/<br>
 http://2.p2.ro.lt/<br>
 
 <a href="http://2.16.dvrdns.org/zx/" target="_blank"><img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg">
