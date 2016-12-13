@@ -3,9 +3,9 @@
 #真相部落 有圖文 有音頻 有視頻 有真相<br>
 #當前有效網址：<br>
 http://2.16.dvrdns.org/<br>
-http://22.02.istmein.de/<br>
+http://9.95.dvrdns.org/<br>
 http://48.myftp.biz/<br>
-http://2.p2.ro.lt/<br>
+http://s.sd.120v.ac/<br>
 
 <a href="http://2.16.dvrdns.org/zx/" target="_blank"><img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg">
 
