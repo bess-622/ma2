@@ -6,6 +6,16 @@ http://2.16.dvrdns.org/<br>
 http://su.28.mypets.ws/<br>
 http://48.myftp.biz/<br>
 http://s.sd.120v.ac/<br>
+<TABLE>
+  <TR>
+	<TD><a href="http://08.dnsdojo.org/xtr/821/" title="神韵晚会2017" target="_blank">
+							<img src="http://08.dnsdojo.org/pic/2016/11/sy2017240.jpg" alt="神韵晚会2017">
+						</a></TD>
+	<TD><a href="http://08.dnsdojo.org/mhradio/" title="明慧广播电台" target="_blank">
+							<img src="http://08.dnsdojo.org/pic/2015/10/mhradio240.jpg" alt="明慧广播电台">
+						</a></TD>
+  </TR>
+</TABLE>
 
 <a href="http://2.16.dvrdns.org/zx/" target="_blank"><img src="http://2.16.dvrdns.org/pic/2016/11/p7829911a215010452.jpg">
 
