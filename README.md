@@ -5,9 +5,9 @@
 http://2.16.dvrdns.org/<br>
 http://su.28.mypets.ws/<br>
 http://48.myftp.biz/<br>
-http://s.sd.120v.ac/<br>
+http://s.36.on-the-web.tv/<br>
 
-<a href="http://2.16.dvrdns.org/zx/" target="_blank"><img src="http://7.77.hpc.tw/pic/2016/11/p7829911a215010452.jpg">
+<a href="http://2.16.dvrdns.org/zx/" target="_blank"><img src="http://36.on-the-web.tv/pic/2016/11/p7829911a215010452.jpg">
 
                                    飞天20位获得金奖学生的精彩表演
 </a>
