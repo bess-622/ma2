@@ -3,7 +3,7 @@
 #真相部落 有圖文 有音頻 有視頻 有真相<br>
 #當前有效網址：<br>
 http://2.16.dvrdns.org/<br>
-http://su.28.mypets.ws/<br>
+http://su.22.2om.us/<br>
 http://48.myftp.biz/<br>
 http://s.36.on-the-web.tv/<br>
 
