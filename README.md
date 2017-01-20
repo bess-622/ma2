@@ -5,9 +5,9 @@
 http://2.888.animesos.org/<br>
 http://su.22.2om.us/<br>
 http://48.myftp.biz/<br>
-http://s.36.on-the-web.tv/<br>
+http://22.75.from-co.net/<br>
 
-<a href="http://2.888.animesos.org/zx/" target="_blank"><img src="http://36.on-the-web.tv/pic/2016/11/p7829911a215010452.jpg">
+<a href="http://2.888.animesos.org/zx/" target="_blank"><img src="http://75.from-co.net/pic/2016/11/p7829911a215010452.jpg">
 
                                    飞天20位获得金奖学生的精彩表演
 </a>
