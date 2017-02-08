@@ -4,7 +4,7 @@
 #當前有效網址：<br>
 http://2.888.animesos.org/<br>
 http://su.012.gruppuso.com/<br>
-http://48.myftp.biz/<br>
+http://421.statuspro.ro/<br>
 http://22.75.from-co.net/<br>
 
 <a href="http://2.888.animesos.org/zx/" target="_blank"><img src="http://75.from-co.net/pic/2016/11/p7829911a215010452.jpg">
