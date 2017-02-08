@@ -3,7 +3,7 @@
 #真相部落 有圖文 有音頻 有視頻 有真相<br>
 #當前有效網址：<br>
 http://2.888.animesos.org/<br>
-http://su.22.2om.us/<br>
+http://su.012.gruppuso.com/<br>
 http://48.myftp.biz/<br>
 http://22.75.from-co.net/<br>
 
