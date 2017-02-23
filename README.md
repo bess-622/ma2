@@ -100,11 +100,11 @@
 
 <table>
 <tr>
-	<td><A HREF="http://065.crownka.com/mp4/news823/2015/11/TSZG_British_1_QA_A_TSZG-61-1_XinHaoNianZuoZh_P617180.mp4" target="_blank" title="辛灝年：紀念《九評共產黨》發表十週年演講"><img  src="http://065.crownka.com/pic/2015/11/xhn9p10480_jssor.jpg"  style="width:155px;height:130px;"></A></td>
-	<td><A HREF="http://065.crownka.com/mp4/news57/2015/11/JPGCD8.mp4" target="_blank" title="【九評之八】評中國共產黨的邪教本質"><img  src="http://065.crownka.com/pic/2015/11/9pkcd8p480_jssor.jpg"  style="width:155px;height:130px;"></A></td>
-	<td><A HREF="http://065.crownka.com/mp4/other/kao.Chih.Sheng_story.mp4"  target="_blank" title="超越恐懼:高智晟的故事"				style="font-size:20px;"><img src="http://065.crownka.com/pic/2016/12/GZS201408070902.jpg"  style="width:155px;height:130px;">
+	<td><A HREF="http://065.crownka.com/mp4/news823/2015/11/TSZG_British_1_QA_A_TSZG-61-1_XinHaoNianZuoZh_P617180.mp4" target="_blank" title="辛灝年：紀念《九評共產黨》發表十週年演講"><img  src="http://065.crownka.com/pic/2015/11/xhn9p10480_jssor.jpg"    width="155px" height="130px"></A></td>
+	<td><A HREF="http://065.crownka.com/mp4/news57/2015/11/JPGCD8.mp4" target="_blank" title="【九評之八】評中國共產黨的邪教本質"><img  src="http://065.crownka.com/pic/2015/11/9pkcd8p480_jssor.jpg"    width="155px" height="130px"></A></td>
+	<td><A HREF="http://065.crownka.com/mp4/other/kao.Chih.Sheng_story.mp4"  target="_blank" title="超越恐懼:高智晟的故事"				style="font-size:20px;"><img src="http://065.crownka.com/pic/2016/12/GZS201408070902.jpg"   width="155px" height="130px">
 						</A></td>
-	<td><A HREF="http://065.crownka.com/mp4/zx/2016/11/oh10yearsInv.mp4"  target="_blank" title="紀錄片《活摘 十年調查》完整版" style="font-size:20px;"><img src="http://065.crownka.com/pic/2016/11/10yearsOHinv.jpg"  style="width:155px;height:130px;">
+	<td><A HREF="http://065.crownka.com/mp4/zx/2016/11/oh10yearsInv.mp4"  target="_blank" title="紀錄片《活摘 十年調查》完整版" style="font-size:20px;"><img src="http://065.crownka.com/pic/2016/11/10yearsOHinv.jpg"  width="155px" height="130px">
 						</A></td>
 </tr>
 </table>
