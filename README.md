@@ -10,6 +10,7 @@
 </tr>
 
 </table>
+<div ><a href="http://96.boldlygoingnowhere.org/zx/bngcd/"><img src="http://96.boldlygoingnowhere.org/zx/bngcd/gcdbnzx.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a></div>
 <table>
 <tr>
 	<td><a href="http://876.softwareritel.com/xtr/107/"><img  src ="http://876.softwareritel.com/pic/2017/02/107.jpg" width="155px" height="130px"></a></td>
