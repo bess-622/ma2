@@ -2,15 +2,15 @@
 <tr>
 
 <td>
-	<H1><a href="http://c31.dumpspam.com/zx/">真相部落</a></H1>
+	<H1><a href="http://h67.startrekkin.net/zx/">真相部落</a></H1>
 </td>
 <td>
-	<H4><a href="http://c31.dumpspam.com/zx/">有图文 有音频 有视频 有真相</a></H4>
+	<H4><a href="http://h67.startrekkin.net/zx/">有图文 有音频 有视频 有真相</a></H4>
 </td>
 </tr>
 </table>
 
- <div ><a href="http://c31.dumpspam.com/zx/bngcd/"><img src="http://c31.dumpspam.com/zx/bngcd/gcdbnzx.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a></div>
+ <div ><a href="http://h67.startrekkin.net/zx/bngcd/"><img src="http://h67.startrekkin.net/zx/bngcd/gcdbnzx.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a></div>
 
 <table>
 <tr>
