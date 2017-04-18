@@ -10,13 +10,13 @@
 		<td><h1><a href="http://ez.access.ly/2-0aq" target=_blank>ez.access.ly/2-0aq</a></h1></td>
 	</tr>
 	<tr>
-		<td><a href="http://ez.access.ly/3owj6" target=_blank>ez.access.ly/3owj6</a></td>
+		<td><h1><a href="http://ez.access.ly/3owj6" target=_blank>ez.access.ly/3owj6</a></h1></td>
 	</tr>
 	<tr>
-		<td><a href="http://ez.access.ly/ti7kv" target=_blank>ez.access.ly/ti7kv</a></td>
+		<td><h1><a href="http://ez.access.ly/ti7kv" target=_blank>ez.access.ly/ti7kv</a></h1></td>
 	</tr>
 	<tr>
-		<td><a href="http://ez.access.ly/e1v0g" target=_blank>ez.access.ly/e1v0g</a></td>
+		<td><h1><a href="http://ez.access.ly/e1v0g" target=_blank>ez.access.ly/e1v0g</a></h1></td>
 	</tr>
 	</table></td>
 	<td><table>
