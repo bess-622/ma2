@@ -1,38 +1,3 @@
 <table>
-<tr>
-	<td><table>
-	<tr>
-		<td ><h1>迫害真相</h1></td>
-	</tr>
-	<tr>
-		<td><h1><a href="http://ez.access.ly/2-0aq" target=_blank>ez.access.ly/2-0aq</a></h1></td>
-	</tr>
-	<tr>
-		<td><h1><a href="http://ez.access.ly/3owj6" target=_blank>ez.access.ly/3owj6</a></h1></td>
-	</tr>
-	<tr>
-		<td><h1><a href="http://ez.access.ly/ti7kv" target=_blank>ez.access.ly/ti7kv</a></h1></td>
-	</tr>
-	<tr>
-		<td><h1><a href="http://ez.access.ly/e1v0g" target=_blank>ez.access.ly/e1v0g</a></h1></td>
-	</tr>
-	</table></td>
-	<td><table>
-	<tr>
-		<td><h1>真相部落</h1></td>
-	</tr>
-	<tr>
-		<td><h1><a href="http://ez.access.ly/aintx" target=_blank>ez.access.ly/aintx</a></h1></td>
-	</tr>
-	<tr>
-		<td><h1><a href="http://ez.access.ly/fxhtf" target=_blank>ez.access.ly/fxhtf</a></h1></td>
-	</tr>
-	<tr>
-		<td><h1><a href="http://ez.access.ly/eqiig" target=_blank>ez.access.ly/eqiig</a></h1></td>
-	</tr>
-	<tr>
-		<td><h1><a href="http://ez.access.ly/icl9h" target=_blank>ez.access.ly/icl9h</a></h1></td>
-	</tr>
-	</table></td>
-</tr>
+<div class="linkbox"><div class="title">真相<div id="url">  <a href="http://ez.access.ly/uu30b" target=_blank>ez.access.ly/uu30b</a>    <a href="http://ez.access.ly/7uvjn" target=_blank>ez.access.ly/7uvjn</a>    <a href="http://ez.access.ly/d308y" target=_blank>ez.access.ly/d308y</a>    <a href="http://ez.access.ly/p5jl4" target=_blank>ez.access.ly/p5jl4</a>  </div></div><div class="title">真相部落首頁<div id="url">  <a href="http://ez.access.ly/tmtwp" target=_blank>ez.access.ly/tmtwp</a>    <a href="http://ez.access.ly/va0pj" target=_blank>ez.access.ly/va0pj</a>    <a href="http://ez.access.ly/by243" target=_blank>ez.access.ly/by243</a>    <a href="http://ez.access.ly/ayzfh" target=_blank>ez.access.ly/ayzfh</a>  </div></div><div class="title">神韻演出<div id="url">  <a href="http://ez.access.ly/xp4rp" target=_blank>ez.access.ly/xp4rp</a>    <a href="http://ez.access.ly/cjysd" target=_blank>ez.access.ly/cjysd</a>    <a href="http://ez.access.ly/wcm3j" target=_blank>ez.access.ly/wcm3j</a>    <a href="http://ez.access.ly/aosod" target=_blank>ez.access.ly/aosod</a>  </div></div><div class="title">世事關心<div id="url">  <a href="http://ez.access.ly/2l2t3" target=_blank>ez.access.ly/2l2t3</a>    <a href="http://ez.access.ly/fxggk" target=_blank>ez.access.ly/fxggk</a>    <a href="http://ez.access.ly/ng64e" target=_blank>ez.access.ly/ng64e</a>    <a href="http://ez.access.ly/4fypf" target=_blank>ez.access.ly/4fypf</a>  </div></div><div class="title">辛灝年系列<div id="url">  <a href="http://ez.access.ly/15o98" target=_blank>ez.access.ly/15o98</a>    <a href="http://ez.access.ly/3dk9s" target=_blank>ez.access.ly/3dk9s</a>    <a href="http://ez.access.ly/pbjgm" target=_blank>ez.access.ly/pbjgm</a>    <a href="http://ez.access.ly/fmidb" target=_blank>ez.access.ly/fmidb</a>  </div></div><div class="title">細語人生<div id="url">  <a href="http://ez.access.ly/m46e4" target=_blank>ez.access.ly/m46e4</a>    <a href="http://ez.access.ly/sk6ts" target=_blank>ez.access.ly/sk6ts</a>    <a href="http://ez.access.ly/b8tct" target=_blank>ez.access.ly/b8tct</a>    <a href="http://ez.access.ly/eq3cr" target=_blank>ez.access.ly/eq3cr</a>  </div></div><div class="title">共產黨真相<div id="url">  <a href="http://ez.access.ly/27ubn" target=_blank>ez.access.ly/27ubn</a>    <a href="http://ez.access.ly/xdjsq" target=_blank>ez.access.ly/xdjsq</a>    <a href="http://ez.access.ly/ohv75" target=_blank>ez.access.ly/ohv75</a>    <a href="http://ez.access.ly/agyx2" target=_blank>ez.access.ly/agyx2</a>  </div></div><div class="title">活摘器官<div id="url">  <a href="http://ez.access.ly/04j5j" target=_blank>ez.access.ly/04j5j</a>    <a href="http://ez.access.ly/93x5n" target=_blank>ez.access.ly/93x5n</a>    <a href="http://ez.access.ly/yybkm" target=_blank>ez.access.ly/yybkm</a>    <a href="http://ez.access.ly/gecj8" target=_blank>ez.access.ly/gecj8</a>  </div></div><div class="title">今日點擊<div id="url">  <a href="http://ez.access.ly/-kojy" target=_blank>ez.access.ly/-kojy</a>    <a href="http://ez.access.ly/62vp9" target=_blank>ez.access.ly/62vp9</a>    <a href="http://ez.access.ly/d7ngb" target=_blank>ez.access.ly/d7ngb</a>    <a href="http://ez.access.ly/culcl" target=_blank>ez.access.ly/culcl</a>  </div></div><div class="title">中國禁聞<div id="url">  <a href="http://ez.access.ly/c9fd4" target=_blank>ez.access.ly/c9fd4</a>    <a href="http://ez.access.ly/jm-iu" target=_blank>ez.access.ly/jm-iu</a>    <a href="http://ez.access.ly/by59n" target=_blank>ez.access.ly/by59n</a>    <a href="http://ez.access.ly/jhbch" target=_blank>ez.access.ly/jhbch</a>  </div></div></div>
 </table>
