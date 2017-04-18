@@ -1,6 +1,6 @@
 
 
-<table border=1 >
+<table border=1 font-size=5 >
 <tr>
 	<td><table>
 	<tr>
