@@ -1,6 +1,6 @@
 
 
-<table>
+<table width=600>
 <tr>
 	<td><table>
 	<tr>
