@@ -4,7 +4,7 @@
 <tr>
 	<td><table>
 	<tr>
-		<td><h1><font color=red>迫害真相</font></h1></td>
+		<td><h1><font color="red">迫害真相</font></h1></td>
 	</tr>
 	<tr>
 		<td><h1><a href="http://ez.access.ly/2-0aq" target=_blank>ez.access.ly/2-0aq</a></h1></td>
