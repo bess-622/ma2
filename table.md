@@ -4,7 +4,7 @@
 <tr>
 	<td><table>
 	<tr>
-		<td><h1>真相</h1></td>
+		<td><h1>迫害真相</h1></td>
 	</tr>
 	<tr>
 		<td><a href="http://ez.access.ly/2-0aq" target=_blank>ez.access.ly/2-0aq</a></td>
@@ -21,7 +21,7 @@
 	</table></td>
 	<td><table>
 	<tr>
-		<td><h1>真相部落首頁</h1></td>
+		<td><h1>真相部落</h1></td>
 	</tr>
 	<tr>
 		<td><a href="http://ez.access.ly/aintx" target=_blank>ez.access.ly/aintx</a></td>
