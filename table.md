@@ -10,9 +10,11 @@
 <td>
 	<H1><a href="http://2.8982.c14.eleadernet.com/book/"> 内地看不到的禁书</a></H1>
 </td>
-<td>
-	<a href="http://2.8982.c14.eleadernet.com/zx/bngcd/"><img src="http://2.8982.c14.eleadernet.com/zx/bngcd/gcdbnzx.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a>
-</td>
+
+</table>
+<table>
+<tr>
+<td><tr rowspan="3"><a href="http://2.8982.c14.eleadernet.com/zx/bngcd/"><img src="http://2.8982.c14.eleadernet.com/zx/bngcd/gcdbnzx.jpg" width="730"  border="0" alt="共产党百年真相特刊"></a></td>
 </tr>
 </table>
 
