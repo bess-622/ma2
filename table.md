@@ -1,6 +1,6 @@
 
-<span style="color:red">some **This is Red Bold.** text</span>
-<table width=600>
+
+<table>
 <tr>
 	<td><table>
 	<tr>
