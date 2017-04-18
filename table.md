@@ -1,6 +1,6 @@
-<!doctype html><html><head><meta charset="UTF-8"><title>Document</title></head><body>
 
-<table border=1 cell cellspacing=1 cellpadding=1>
+
+<table border=1 >
 <tr>
 	<td><table>
 	<tr>
